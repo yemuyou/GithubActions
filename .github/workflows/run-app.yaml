@@ -1,4 +1,4 @@
-name: 'Run App BINGQUAN LI'
+name: 'Run App BINGQUA LI'
 
 on: [push, pull_request]
 
