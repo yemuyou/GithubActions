@@ -1,6 +1,4 @@
-[![Run App](https://github.com/yemuyou/GithubActions/actions/workflows/run-app.yaml/badge.svg?branch=yemuyou)](https://github.com/yemuyou/GithubActions/actions/workflows/run-app.yaml)
-
-# Do not submit a pull request to `kgerot/GithubActions` or `dteske/TraviCI`. Not following this instruction can ruin the lab for others, so pay attention.
+[![Run App](https://github.com/yemuyou/GithubActions/actions/workflows/run-app.yaml/badge.svg?branch=yemuyou)](https://github.com/yemuyou/GithubActions/actions/workflows/run-app.yaml)# Do not submit a pull request to `kgerot/GithubActions` or `dteske/TraviCI`. Not following this instruction can ruin the lab for others, so pay attention.
 
 (I receive around 60 pull requests every semester and have to manually delete each request and action run.)
 
