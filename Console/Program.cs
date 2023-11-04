@@ -1,5 +1,5 @@
 ﻿using System;
-
+ 
 namespace GithubActionsLab
 {
     public class Program
